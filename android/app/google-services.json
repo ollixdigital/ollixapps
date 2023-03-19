@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119362113501",
+    "project_id": "ollix-bd936",
+    "storage_bucket": "ollix-bd936.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119362113501:android:74e236253f2800f523f034",
+        "android_client_info": {
+          "package_name": "com.ollixdigital.ollix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119362113501-o61pp7r2mevjl8g6el8q2rol9267li5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4lLwDbtTDl8j5X5FYAiY2woxyQuxgdHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119362113501-o61pp7r2mevjl8g6el8q2rol9267li5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
